@@ -12,11 +12,11 @@ Una corretta compilazione può essere fatta in due modi differenti:
 Si possono modificare differenti impostazioni modificando il file settings.txt.<br/>
 Le impostazioni sono date inserendo numeri interi uno per riga:<br/>
 L'ordine di lettura delle impostazioni è: </br>
-init_people<br/>
-genes<br/>
-birth_death<br/>
-sim_time<br/>
-<br/>
+- init_people<br/>
+- genes<br/>
+- birth_death<br/>
+- sim_time<br/>
+- 
 Ad esempio, impostando il file di impostazioni in questo modo:<br/>
 10<br/>
 1000<br/>
