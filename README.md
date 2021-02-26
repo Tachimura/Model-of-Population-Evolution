@@ -1,6 +1,6 @@
 # Model-of-Population-Evolution
 Progetto interamente scritto in C.<br/>
-Si esegue una modellazione del comportamento di una popolazione composta da elementi di tipo A e di tipo B (maschi e femmine).<br/>
+Si esegue una modellazione del comportamento di una popolazione composta da elementi di tipo A e di tipo B (maschi e femmine) rappresentati graficamente da Tartarughe.<br/>
 Ogni individuo è gestito da un Thread che ne gestisce le iterazioni con gli altri individui.<br/>
 Un individuo durante la sua vita, cerca un compagno/a per aver la possibilità di continuare il suo albero filogenetico.<br/>
 Ad ogni iterazione una parte dei codici genetici dei genitori verrà passato al figlio, e cercando un partner con un codice "migliore" si cerca di migliorare la propria prole.
