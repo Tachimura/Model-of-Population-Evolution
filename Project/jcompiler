@@ -1,0 +1,6 @@
+#!/bin/bash                                                                                                                                   
+
+gcc -c jughino.c -Wall -pedantic && gcc -c jcomunicator.c -Wall -pedantic && gcc -c jpreferences.c -Wall -pedantic && gcc -c sub_main.c -Wall -pedantic && gcc -c main.c -Wall -pedantic
+gcc -o figlio sub_main.o jpreferences.o jcomunicator.o jughino.o
+gcc -o padre main.o jpreferences.o jcomunicator.o jughino.o
+./padre settings.txt figlio
