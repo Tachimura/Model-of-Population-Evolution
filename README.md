@@ -11,7 +11,7 @@ Una corretta compilazione può essere fatta in due modi differenti:
 ## Correct Setup
 Si possono modificare differenti impostazioni modificando il file settings.txt.<br/>
 Le impostazioni sono date inserendo numeri interi uno per riga:<br/>
-L'ordine di lettura delle impostazioni è: </br>
+L'ordine di lettura delle impostazioni è:
 - init_people<br/>
 - genes<br/>
 - birth_death<br/>
@@ -23,7 +23,7 @@ Ad esempio, impostando il file di impostazioni in questo modo:<br/>
 3<br/>
 20<br/>
 <br/>
-Questo farà eseguire il programma con:<br/>
+Questo farà eseguire il programma con:
 - Una popolazione da 10 elementi<br/>
 - Il gene degli elementi iniziali sarà un numero fra 2 e 1002<br/>
 - Ogni 3 secondi avverrà una birth_death che ucciderà un ughino e ne creerà uno nuovo<br/>
