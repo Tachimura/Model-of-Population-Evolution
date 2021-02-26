@@ -7,7 +7,7 @@ Una corretta compilazione può essere fatta in due modi differenti:
 ./jcompiler<br/>
 * A moduli insieme, eseguendo il file eseguibile:<br/>
 ./jcompiler_default<br/>
-<br/>
+
 ## Correct Setup
 Si possono modificare differenti impostazioni modificando il file settings.txt.<br/>
 Le impostazioni sono date inserendo numeri interi uno per riga:<br/>
