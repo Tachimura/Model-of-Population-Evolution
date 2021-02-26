@@ -16,7 +16,7 @@ L'ordine di lettura delle impostazioni è: </br>
 - genes<br/>
 - birth_death<br/>
 - sim_time<br/>
-- 
+
 Ad esempio, impostando il file di impostazioni in questo modo:<br/>
 10<br/>
 1000<br/>
